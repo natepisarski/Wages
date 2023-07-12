@@ -1,6 +1,6 @@
 # Wages
-Wages is a command-line program to help save you money. It allows you to set a "money schedule" in a configuration file to tell you how to save your hard-earned dough.
+Program I personally used to calculate how much money I could spend per day, given a certain amount of income.
 
-Eventually support for a configuration builder will come, but that's not for a while.
+It allows you to define an "income schedule" somehow, but I'm not sure how because:
 
-This is licensed under the BSD 3-clause license. Go nuts.
+This program was created almost a decade ago, and I never put directions on how to use it in the `README.md`, so...
